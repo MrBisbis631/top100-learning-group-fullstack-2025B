@@ -103,7 +103,7 @@ Result? Text will be **green**, because **inline styles** have higher specificit
 
 - **Order matters**: In Tailwind, later classes override earlier ones.
 - **Avoid specificity battles**: Use utility classes instead of deep custom CSS.
-- **Use **`` properly to inject custom styles without breaking Tailwind's control.
+- **Use**`` properly to inject custom styles without breaking Tailwind's control.
 - **Understand the cascade**: Styles closer to the element (inline, later classes) will often override.
 
 ---

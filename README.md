@@ -104,3 +104,25 @@ Resources like `pdf` learning books can be found in the `resources` directory.
 
 - Convert a small JavaScript application to TypeScript.
 - Create a class‑based implementation of a shopping cart system.
+
+---
+
+## Week 5 - Full-Stack Application Architecture
+
+**Topics Covered:**
+
+- Understand the distinct components and layers of a full-stack application.
+- Learn how clients find servers using DNS.
+- Grasp the roles and technologies of the client, server, and database.
+- Learn the fundamentals of HTTP as the communication backbone.
+- Understand the role of Load Balancers in scalability and availability.
+- Explore different types of Caching and Content Delivery Networks (CDNs).
+- Learn how to handle long-running tasks asynchronously using Message Queues and Workers.
+- Explore common authentication (AuthN) and authorization (AuthZ) patterns.
+- See how these pieces fit together in a typical request lifecycle.
+- Briefly touch upon modern architectural patterns.
+
+**Exercise:**
+
+- Go over `./resources/fullstack-architecture.pdf` and understand the architecture of a full-stack application.
+- Go over the firs 50 pages of `Linkedin_Posts_2024_Blue_250406_220421.pdf`.
